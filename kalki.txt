@@ -1,5 +1,5 @@
 movie Name : kalki
 actor : prabhas
+budget:8000 cr
 
-budget:600 cr
 
